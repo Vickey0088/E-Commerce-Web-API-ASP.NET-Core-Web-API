@@ -9,12 +9,14 @@ User Login
 JWT Token Generation
 Role-Based Authorization (Admin / Customer)
 Secure API Endpoints
+
 📂 Category Management
 Create Category
 Update Category
 Delete Category
 Get All Categories
 Get Category By Id
+
 📦 Product Management
 Create Product
 Update Product
@@ -22,6 +24,7 @@ Delete Product
 Get Product By Id
 Get All Products
 Category-Product Relationship
+
 🔍 Search, Filter & Pagination
 Product Search
 Category Filtering
@@ -34,6 +37,7 @@ Update Quantity
 Remove Product
 Get My Cart
 Calculate Cart Total
+
 📋 Order Management
 Checkout
 Create Order
@@ -41,6 +45,7 @@ Order History
 Order Details
 Order Status Management
 Stock Quantity Updates
+
 🏗️ Tech Stack
 Technology	Usage
 ASP.NET Core Web API	Backend Development
@@ -50,6 +55,7 @@ JWT Authentication	Security
 Swagger	API Documentation
 LINQ	Query Operations
 BCrypt.Net	Password Hashing
+
 📂 Project Structure
 ECommerce_WebAPI
 │
@@ -150,17 +156,11 @@ dotnet run
   "Issuer": "ECommerceAPI",
   "Audience": "ECommerceUsers"
 }
+
+
 📸 Screenshots
-Swagger UI
-![Swagger Screenshot](images/swagger-home.png)
-Authentication API
-![Login API](images/login-api.png)
-Product Management
-![Products](images/products-api.png)
-Shopping Cart
-![Cart](images/cart-api.png)
-Order Management
-![Orders](images/orders-api.png)
+
+Swagger UIAuthentication APIhttp://googleusercontent.com/image_collection/image_retrieval/17757008717485493214Product Managementhttp://googleusercontent.com/image_collection/image_retrieval/10572148829305574530Shopping Carthttp://googleusercontent.com/image_collection/image_retrieval/8309390444508627229Order Managementhttp://googleusercontent.com/image_collection/image_retrieval/18176900279590932180
 
 Create an images folder in your repository and upload screenshots there.
 
